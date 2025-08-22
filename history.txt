@@ -1,0 +1,4 @@
+#V2
+(contract-call? .dao-treasury add-member 'ST1SJ3DTE5DN7X54YDH5D64R3BCB6A2AG2ZQ8YPD5 u100)
+clarinet check
+(contract-call? .dao-treasury add-member 'ST1SJ3DTE5DN7X54YDH5D64R3BCB6A2AG2ZQ8YPD5 u100)

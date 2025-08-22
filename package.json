@@ -1,0 +1,13 @@
+{
+  "name": "dao-treasury",
+  "version": "1.0.0",
+  "description": "Time-locked DAO Treasury with Streaming Payments",
+  "scripts": {
+    "test": "clarinet test",
+    "check": "clarinet check",
+    "console": "clarinet console"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}

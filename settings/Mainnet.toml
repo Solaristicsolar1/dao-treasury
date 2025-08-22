@@ -1,0 +1,8 @@
+[network]
+name = "mainnet"
+node_rpc_address = "https://stacks-node-api.mainnet.stacks.co"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = ""
+# Add your mainnet mnemonic here for deployment
